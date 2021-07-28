@@ -1,0 +1,45 @@
+/* Header decoration */
+
+.logo {
+  color: blue !important;
+  font-weight: bold;
+  font-size: x-large;
+  margin-top: -6px;
+  margin-left: 35px;
+}
+.my-nav-link a {
+  margin-bottom: 10px;
+  margin-right: 30px;
+  color: rgb(0, 0, 0) !important;
+}
+.my-nav-link a:hover {
+  font-weight: bold;
+  border-bottom: 2px solid black;
+}
+.active {
+  border-bottom: 2px solid black !important;
+}
+
+/* First Section decoration*/
+
+.my_pic img {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+}
+.quotes {
+  color: brown;
+}
+
+.my_pic p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  color: black;
+  font-size: 36px;
+  margin-left: 177px;
+}
+.mypic {
+  background: blue;
+}
